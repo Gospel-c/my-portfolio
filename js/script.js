@@ -41,7 +41,7 @@ if(close) {
 const typedText = document.querySelector(".typed-text");
 const cursor = document.querySelector(".cursor");
 
-const textArray = ["Web Developer", "Web Designer", "Tutor", "Learner..."];
+const textArray = ["Web Developer", "Web Designer", "Full-Stack Developer", "problem solver", "Tutor..."];
 
 let textArrayIndex = 0;
 let charIndex = 0;
