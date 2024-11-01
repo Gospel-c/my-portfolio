@@ -63,7 +63,7 @@ img {
 
 /* Hero Section */
 header.hero {
-  background: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../assets/image.JPG) no-repeat top center fixed;
+  background: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../assets/image.png) no-repeat top center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
